@@ -84,5 +84,4 @@ def is_consecutive(a_list):
     return True
 
 print(is_consecutive([4, 5, 6, 7, 8, 9]))
-
 print(is_consecutive([4, 5, 7, 8]))
